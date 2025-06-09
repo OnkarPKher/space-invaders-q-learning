@@ -27,12 +27,12 @@ pip install (dependency name)
 ## Q-Learrning Training and Testing
 
 <p align="center">
-  <img src="space-invaders-q-learning/drive-download-20250603T232727Z-1-001/ENPM690_Final_Project-main/GIF/graph.png">
+  <img src="ENPM690_Final_Project-main/GIF/graph.png">
   <br><b>Fig 1: Q-Learning Reward vs Number of Steps (500 Episodes) </b><br>
 </p>
 
 <p align="center">
-  <img src="space-invaders-q-learning/drive-download-20250603T232727Z-1-001/ENPM690_Final_Project-main/GIF/Space_invader_scores.gif">
+  <img src="ENPM690_Final_Project-main/GIF/Space_invader_scores.gif">
   <br><b>Fig 2: Q-Learning playing Space Invaders with 500 Episodes of training</b><br>
 </p>
 
